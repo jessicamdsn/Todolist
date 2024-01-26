@@ -1,0 +1,14 @@
+C:\Users\jessi\OneDrive\Documentos\Todolist\bin\Debug\net8.0\projeto-back.exe
+C:\Users\jessi\OneDrive\Documentos\Todolist\bin\Debug\net8.0\projeto-back.deps.json
+C:\Users\jessi\OneDrive\Documentos\Todolist\bin\Debug\net8.0\projeto-back.runtimeconfig.json
+C:\Users\jessi\OneDrive\Documentos\Todolist\bin\Debug\net8.0\projeto-back.dll
+C:\Users\jessi\OneDrive\Documentos\Todolist\bin\Debug\net8.0\projeto-back.pdb
+C:\Users\jessi\OneDrive\Documentos\Todolist\obj\Debug\net8.0\projeto-back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\OneDrive\Documentos\Todolist\obj\Debug\net8.0\projeto-back.AssemblyInfoInputs.cache
+C:\Users\jessi\OneDrive\Documentos\Todolist\obj\Debug\net8.0\projeto-back.AssemblyInfo.cs
+C:\Users\jessi\OneDrive\Documentos\Todolist\obj\Debug\net8.0\projeto-back.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Documentos\Todolist\obj\Debug\net8.0\projeto-back.dll
+C:\Users\jessi\OneDrive\Documentos\Todolist\obj\Debug\net8.0\refint\projeto-back.dll
+C:\Users\jessi\OneDrive\Documentos\Todolist\obj\Debug\net8.0\projeto-back.pdb
+C:\Users\jessi\OneDrive\Documentos\Todolist\obj\Debug\net8.0\projeto-back.genruntimeconfig.cache
+C:\Users\jessi\OneDrive\Documentos\Todolist\obj\Debug\net8.0\ref\projeto-back.dll
